@@ -1,0 +1,391 @@
+{
+    "query": "cat:cs.LG",
+    "papers_processed": 10,
+    "processing_timestamp": "2025-09-08T15:44:16Z",
+    "corpus_stats": {
+        "total_abstracts": 10,
+        "total_words": 1400,
+        "unique_words_global": 557,
+        "avg_abstract_length": 140.0,
+        "longest_abstract_words": 234,
+        "shortest_abstract_words": 78
+    },
+    "top_50_words": [
+        {
+            "word": "learning",
+            "frequency": 16
+        },
+        {
+            "word": "paper",
+            "frequency": 10
+        },
+        {
+            "word": "decision",
+            "frequency": 9
+        },
+        {
+            "word": "method",
+            "frequency": 9
+        },
+        {
+            "word": "function",
+            "frequency": 7
+        },
+        {
+            "word": "state",
+            "frequency": 7
+        },
+        {
+            "word": "policy",
+            "frequency": 7
+        },
+        {
+            "word": "maxq",
+            "frequency": 6
+        },
+        {
+            "word": "performance",
+            "frequency": 6
+        },
+        {
+            "word": "order",
+            "frequency": 6
+        },
+        {
+            "word": "classifier",
+            "frequency": 6
+        },
+        {
+            "word": "data",
+            "frequency": 6
+        },
+        {
+            "word": "approach",
+            "frequency": 5
+        },
+        {
+            "word": "target",
+            "frequency": 5
+        },
+        {
+            "word": "conditions",
+            "frequency": 5
+        },
+        {
+            "word": "maxq-q",
+            "frequency": 5
+        },
+        {
+            "word": "domains",
+            "frequency": 5
+        },
+        {
+            "word": "show",
+            "frequency": 5
+        },
+        {
+            "word": "analysis",
+            "frequency": 5
+        },
+        {
+            "word": "algorithms",
+            "frequency": 5
+        },
+        {
+            "word": "complexity",
+            "frequency": 5
+        },
+        {
+            "word": "case",
+            "frequency": 5
+        },
+        {
+            "word": "hybrid",
+            "frequency": 5
+        },
+        {
+            "word": "induction",
+            "frequency": 5
+        },
+        {
+            "word": "inductive",
+            "frequency": 5
+        },
+        {
+            "word": "logic",
+            "frequency": 5
+        },
+        {
+            "word": "programming",
+            "frequency": 5
+        },
+        {
+            "word": "ilp",
+            "frequency": 5
+        },
+        {
+            "word": "hierarchical",
+            "frequency": 4
+        },
+        {
+            "word": "value",
+            "frequency": 4
+        },
+        {
+            "word": "its",
+            "frequency": 4
+        },
+        {
+            "word": "abstractions",
+            "frequency": 4
+        },
+        {
+            "word": "algorithm",
+            "frequency": 4
+        },
+        {
+            "word": "experimentally",
+            "frequency": 4
+        },
+        {
+            "word": "important",
+            "frequency": 4
+        },
+        {
+            "word": "actions",
+            "frequency": 4
+        },
+        {
+            "word": "under",
+            "frequency": 4
+        },
+        {
+            "word": "cost",
+            "frequency": 4
+        },
+        {
+            "word": "class",
+            "frequency": 4
+        },
+        {
+            "word": "robust",
+            "frequency": 4
+        },
+        {
+            "word": "clustering",
+            "frequency": 4
+        },
+        {
+            "word": "trees",
+            "frequency": 4
+        },
+        {
+            "word": "system",
+            "frequency": 4
+        },
+        {
+            "word": "tree",
+            "frequency": 4
+        },
+        {
+            "word": "examples",
+            "frequency": 4
+        },
+        {
+            "word": "setting",
+            "frequency": 4
+        },
+        {
+            "word": "reinforcement",
+            "frequency": 3
+        },
+        {
+            "word": "based",
+            "frequency": 3
+        },
+        {
+            "word": "functions",
+            "frequency": 3
+        },
+        {
+            "word": "five",
+            "frequency": 3
+        }
+    ],
+    "technical_terms": {
+        "uppercase_terms": [
+            "This",
+            "MAXQ",
+            "Markov",
+            "MDP",
+            "MDPs",
+            "MDP",
+            "MDPs",
+            "The",
+            "MAXQ",
+            "The",
+            "MAXQ",
+            "Q",
+            "The",
+            "MAXQ",
+            "MAXQ",
+            "Q",
+            "MAXQ",
+            "Q",
+            "Q",
+            "The",
+            "MAXQ",
+            "The",
+            "Finally",
+            "Many",
+            "RL",
+            "However",
+            "In",
+            "MAXQ",
+            "RL",
+            "In",
+            "MAXQ",
+            "We",
+            "MAXQ",
+            "Q",
+            "MAXQ",
+            "Q",
+            "The",
+            "Newton",
+            "A",
+            "Though",
+            "This",
+            "The",
+            "Newton",
+            "Levenberg",
+            "Marquardt",
+            "The",
+            "Its",
+            "We",
+            "The",
+            "Lie",
+            "As",
+            "For",
+            "By",
+            "In",
+            "Thus",
+            "Given",
+            "Kolmogorov",
+            "In",
+            "We",
+            "Kolmogorov",
+            "The",
+            "We",
+            "Keywords",
+            "Kolmogorov",
+            "Algorithmic",
+            "In",
+            "This",
+            "We",
+            "In",
+            "This",
+            "The",
+            "The",
+            "The",
+            "ROC",
+            "ROCCH",
+            "ROC",
+            "The",
+            "Finally",
+            "An",
+            "To",
+            "The",
+            "TIC",
+            "Top",
+            "Induction",
+            "Clustering",
+            "The",
+            "TIC",
+            "Tilde",
+            "Various",
+            "TIC",
+            "When",
+            "ILP",
+            "Inductive",
+            "Therefore",
+            "The",
+            "Within",
+            "ILP",
+            "In",
+            "We",
+            "ILP",
+            "ILP",
+            "As",
+            "ILP",
+            "Tilde",
+            "Top",
+            "Induction",
+            "Logical",
+            "DEcision",
+            "Tilde",
+            "Tilde",
+            "LDS",
+            "We",
+            "Tilde",
+            "LDS",
+            "MB",
+            "In",
+            "In",
+            "In",
+            "Markovian",
+            "We",
+            "SARSA",
+            "VAPS",
+            "Baird",
+            "Moore",
+            "We",
+            "Cross",
+            "An",
+            "In",
+            "We",
+            "The"
+        ],
+        "numeric_terms": [
+            "1",
+            "100",
+            "000",
+            "100"
+        ],
+        "hyphenated_terms": [
+            "model-free",
+            "MAXQ-Q",
+            "locally-optimal",
+            "MAXQ-Q",
+            "MAXQ-Q",
+            "non-hierarchical",
+            "non-hierarchical",
+            "MAXQ-Q",
+            "MAXQ-Q",
+            "Newton-like",
+            "second-order",
+            "Levenberg-Marquardt",
+            "real-life",
+            "real-world",
+            "real-world",
+            "top-down",
+            "attribute-value",
+            "trade-off",
+            "Top-down",
+            "Tilde-classic",
+            "Tilde-LDS",
+            "Tilde-LDS",
+            "non-Markovian",
+            "Cross-validation",
+            "cross-validation",
+            "cross-validation"
+        ]
+    },
+    "category_distribution": {
+        "cs.LG": 10,
+        "I.2.6": 5,
+        "G.1.6": 2,
+        "E.4; F.2; I.2": 1,
+        "I.2.6 ; I.2.3": 1,
+        "I.2.8;I.2.6;I.2.11;I.2;I.2.3": 1
+    }
+}
